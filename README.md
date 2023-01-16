@@ -15,3 +15,5 @@ File structure:
     -- Netlogo_ConstraintBO.ipynb           # Bayesian optimization with variable-wise constraint and interactive constraint.
   -- my_sample_data.csv                     # Example file for specifying the input format.
 ```
+
+Before running the code, make sure you have installed the NetLogo in your machine and follow the instructions in each program file to specify the paths. 
